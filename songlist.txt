@@ -1,0 +1,51 @@
+Yad Eller;Manga;1004;Rock;2018
+Nothing Else Matters;Metallica;1031;Metal;1991
+Bad Liar;Imagine Dragons;1002;Pop;2019
+Die For You;The Weeknd;1003;Pop;2016
+Bir;Pentagram;1001;Rock;2002
+War Pigs;Black Sabbath;1005;Metal;1970
+Mazeretim Var Asabiyim Ben;MFO;1006;Rock;1995
+Git;Sezen Aksu;1007;Pop;1986
+Chop Suey;System of a Down;1008;Metal;2001
+Elfida;Haluk Levent;1009;Rock;2014
+Baba;Allame;1010;Rap;2021
+Atesten Gomlek;Sagopa Kajmer;1011;Rap;2009
+Neyim Var Ki;Ceza;1012;Rap;2004
+Verandert;Ufo 361;1013;Rap;2018
+Venom;Eminem;1014;Rap;2018
+Cant Take My Eyes Off You;Frankie Valli;1015;Jazz;1967
+My Way;Frank Sinatra;1016;Jazz;1969
+Adini Sen Koy;Muslum Gurses;1017;Arabesk;1993
+Duygularim;Azer Bulbul;1018;Arabesk;2011
+Batsin Bu Dunya;Orhan Gencebay;1019;Arabesk;1973
+Nerden Bileceksiniz;Ahmet Kaya;1020;Arabesk;1998
+Ben de Ozledim;Ferdi Tayfur;1021;Arabesk;1982
+Diamonds;Rihanna;1022;Pop;2012
+Baby;Justin Bieber;1023;Pop;2010
+Kuzu Kuzu;Tarkan;1024;Pop;2001
+Poset;Serdar Ortac;1025;Pop;2010
+Tamirci Ciragi;Cem Karaca;1026;Rock;1975
+Donence;Baris Manco;1027;Rock;1982
+Copculer;Erkin Koray;1028;Rock;1985
+Smells Like Teen Spirit;Nirvana;1029;Rock;1991
+In The End;Linkin Park;1030;Rock;2000
+Welcome To The Jungle;Guns N' Roses;1032;Metal;1987
+The Last Stand;Sabaton;1033;Metal;2016
+Du Hast;Rammstein;1034;Metal;1997
+Guardians Of Asgard;Amon Amarth;1035;Metal;2008
+Moanin;Art Blakey;1036;Jazz;1959
+Birak Beni Boyle;Karsu;1037;Jazz;2018
+What A Wonderful World;Louis Armstrong;1038;Jazz;1968
+Candy Shop;50 Cent;1039;Rap;2009
+Ups And Downs;Snoop Dogg;1040;Rap;2004
+Stronger;Kanye West;1041;Rap;2007
+Butterfly Effect;Travis Scott;1042;Rap;2017
+Pull Me Under;Dream Theater;1043;Rock;1992
+Smack That;Akon;1044;Rap;2009
+The Trooper;Iron Maiden;1045;Metal;1983
+Back In Black;AC/DC;1046;Rock;1980
+Do I Wanna Know;Arctic Monkeys;1047;Rock;2014
+Supermassive Black Hole;Muse;1048;Rock;2006
+Bir Derdim Var;Mor ve Otesi;1049;Rock;2004
+Bes;Gripin;1050;Pop;2010
+Yngwaz' Zonen;Heidevolk;1051;Metal;2018
